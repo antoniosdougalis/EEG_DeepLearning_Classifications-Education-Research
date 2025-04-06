@@ -2,7 +2,7 @@
 ## Written by Dr. Antonios Dougalis, Kozani 05th Dec 2024, Greece
 # modified on 3rd of April 2025, Kozani, Greece
 
-#  contact me for any quesries on: antoniosdougalis@gmail.com
+#  contact me for any queries on: antoniosdougalis@gmail.com
 # (PLEASE DOWNLOAD THE DATA FROM THE OpenNeuro: https://openneuro.org/datasets/ds004504 )
 # THEN INSERT THEM AT LINE 176 BLOCK #%% read Data and data labels and demographics
 
